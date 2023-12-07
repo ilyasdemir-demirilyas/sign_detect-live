@@ -1,5 +1,3 @@
-pip install opencv-python==4.8.1.78
-
 import cv2
 import numpy as np
 import mediapipe as mp
